@@ -1,0 +1,18 @@
+{
+  "name": "solid_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MiguelS007/SOLID_TypeScript.git",
+  "author": "miguel <miguelsodre007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "ts-loader": "^8.0.12",
+    "typescript": "^4.1.2",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
